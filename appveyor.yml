@@ -45,7 +45,7 @@ deploy:
   description: ''
   provider: GitHub
   auth_token:
-    secure: 3Gb8TamBQ6UpW4XJ8KcUowEtMYJNmAx22c3hYDPg2+Shs9lE8Ftyx4u4F2Y7obO4
+    secure: qYFkH97NRjyq6zGN5egO+uNZue5eFEc6DmV3i086z5skRrW/3TkrLmaaNXrofgbw
   artifact: /.*\.whl/
   draft: false
   prerelease: false
